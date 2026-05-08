@@ -1,7 +1,7 @@
 Hi, I'm Oussama BOURHIME.
 
 # 💫 About Me:
-💻 Full Stack Web Developer | 🔐 Cybersecurity Enthusiast | 🎓 Decision Informatics Student<br>Passionate about building secure, scalable, and efficient web applications. I combine development expertise with cybersecurity knowledge to deliver innovative solutions and bridge the gap between code and security.
+💻 Full Stack Web Developer | 🔐 Cybersecurity Enthusiast | 🎓 Decision Informatics Student<br>Passionné par les technologies de l’information 💻, le développement web 🌐 et la cybersécurité 🔐, je suis actuellement étudiant en Licence Informatique Décisionnelle 📊 et en formation Analyste Cybersécurité 🛡️. Curieux 🤔, motivé 🚀 et toujours prêt à apprendre 📚, mon objectif est d’explorer un maximum de domaines IT afin de développer une vision complète du secteur technologique 🌍.
 
 
 ## 🌐 Socials:
